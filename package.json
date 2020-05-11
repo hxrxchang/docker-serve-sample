@@ -1,0 +1,12 @@
+{
+  "name": "fargate-node-serve-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
